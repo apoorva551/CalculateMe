@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CalculateMe/static/css/main.11c669ce.css",
+    "main.js": "/CalculateMe/static/js/main.04998b9c.js",
+    "index.html": "/CalculateMe/index.html",
+    "main.11c669ce.css.map": "/CalculateMe/static/css/main.11c669ce.css.map",
+    "main.04998b9c.js.map": "/CalculateMe/static/js/main.04998b9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11c669ce.css",
+    "static/js/main.04998b9c.js"
+  ]
+}
